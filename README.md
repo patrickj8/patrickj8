@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...drawing, coding, and science
 - 🌱 I’m currently learning ...about AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...patrick.ohnson@gmail.com or 757-344-4561
+- 📫 How to reach me ...patrick.ohnson@gmail.com
 
 <!---
 patrickj8/patrickj8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
